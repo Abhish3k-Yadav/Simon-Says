@@ -12,6 +12,8 @@ A modern, responsive implementation of the classic Simon Says memory game built 
 - **⌨️ Keyboard Support**: Play with keyboard (1-4 or Q-W-A-S keys)
 - **📱 Touch Optimized**: Smooth touch interactions for mobile devices
 - **🎨 Beautiful UI**: Modern gradient design with smooth animations
+- **🔖 Custom Favicon**: Branded icon that matches the game theme
+- **📱 PWA Ready**: Can be installed as a web app on mobile devices
 
 ## 🚀 Demo
 
@@ -70,6 +72,8 @@ Simon-Says/
 ├── index.html          # Main HTML file
 ├── Style.css          # Styles and responsive design
 ├── app.js             # Game logic and functionality
+├── favicon.svg        # Custom favicon (game-themed icon)
+├── manifest.json      # PWA manifest for app installation
 └── README.md          # Project documentation
 ```
 
@@ -161,7 +165,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Abhishek Yadav**
+**Abhishek ❤️**
 
 - GitHub: [@Abhish3k-Yadav](https://github.com/Abhish3k-Yadav)
 
